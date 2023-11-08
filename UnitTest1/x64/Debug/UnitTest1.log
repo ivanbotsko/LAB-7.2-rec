@@ -1,0 +1,5 @@
+﻿  UnitTest1.cpp
+C:\Users\Іван\Desktop\PR 7.2 rec\PR 7.2 rec\PR 7.2 rec.cpp(52,13): error C3861: 'SearchMinEven': identifier not found
+C:\Users\Іван\Desktop\PR 7.2 rec\UnitTest1\UnitTest1.cpp(21,13): error C2660: 'CreateRow': function does not take 4 arguments
+C:\Users\Іван\Desktop\PR 7.2 rec\PR 7.2 rec\PR 7.2 rec.cpp(6,6): message : see declaration of 'CreateRow'
+C:\Users\Іван\Desktop\PR 7.2 rec\UnitTest1\UnitTest1.cpp(21,13): message : while trying to match the argument list '(int *, const int, const int, const int)'

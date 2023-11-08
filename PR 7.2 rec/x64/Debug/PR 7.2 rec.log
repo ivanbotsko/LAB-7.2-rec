@@ -1,0 +1,8 @@
+﻿  PR 7.2 rec.cpp
+C:\Users\Іван\Desktop\PR 7.2 rec\PR 7.2 rec\PR 7.2 rec.cpp(50,13): error C3861: 'SearchMinEven': identifier not found
+C:\Users\Іван\Desktop\PR 7.2 rec\PR 7.2 rec\PR 7.2 rec.cpp(92,5): error C2660: 'CreateRows': function does not take 4 arguments
+C:\Users\Іван\Desktop\PR 7.2 rec\PR 7.2 rec\PR 7.2 rec.cpp(17,6): message : see declaration of 'CreateRows'
+C:\Users\Іван\Desktop\PR 7.2 rec\PR 7.2 rec\PR 7.2 rec.cpp(92,5): message : while trying to match the argument list '(int **, int, int, int)'
+C:\Users\Іван\Desktop\PR 7.2 rec\PR 7.2 rec\PR 7.2 rec.cpp(93,5): error C2660: 'PrintRows': function does not take 2 arguments
+C:\Users\Іван\Desktop\PR 7.2 rec\PR 7.2 rec\PR 7.2 rec.cpp(31,6): message : see declaration of 'PrintRows'
+C:\Users\Іван\Desktop\PR 7.2 rec\PR 7.2 rec\PR 7.2 rec.cpp(93,5): message : while trying to match the argument list '(int **, int)'
